@@ -152,7 +152,7 @@ An ready-to-deploy hotel management website written in Node.js, utilizing MongoD
 
 ## Technologies
 
-**İstemci:** EJS, HTML, CSS
+**Client:** EJS, HTML, CSS
 
 **Server:** Node, Express, Docker
 
